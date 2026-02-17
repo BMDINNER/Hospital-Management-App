@@ -4,7 +4,7 @@ A full-stack hospital management application with separate frontend and backend 
 
 ## About The Project
 
-This system is purely done because of I thought MHRS and E-Nabız possibly managable under one roof project, featuring patient dashboards and backend management capabilities. The project is structured into two main components for better scalability and maintenance.
+This system provides MHRS and E-Nabız services to be managed under a one roof project, featuring patient dashboards and backend management capabilities. The project is structured into two main components for better scalability and maintenance.
 
 ### Key Features
 - Patient dashboard for information management
